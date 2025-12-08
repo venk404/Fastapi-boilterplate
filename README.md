@@ -202,11 +202,11 @@ https://yourdomain.com/api/webhook
 ## Learn More
 
 - [Dodo Payments Documentation](https://docs.dodopayments.com/)
-- [Python SDK Documentation](https://docs.dodopayments.com/developer-resources/python-sdk)
+- [Python SDK Documentation](https://docs.dodopayments.com/developer-resources/sdks/python)
 - [Webhooks Documentation](https://docs.dodopayments.com/developer-resources/webhooks)
 
 ## Support
 
 Need help? Reach out:
 - [Dodo Payments Discord](https://discord.gg/bYqAp4ayYh)
-- [GitHub Issues](https://github.com/dodopayments/dodo-fastapi-minimal-boilerplate/issues)
+- [GitHub Issues]()
