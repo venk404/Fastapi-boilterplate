@@ -24,8 +24,8 @@ Before you begin, make sure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dodopayments/dodo-fastapi-minimal-boilerplate.git
-cd dodo-fastapi-minimal-boilerplate
+git clone https://github.com/venk404/Fastapi-boilterplate.git
+cd Fastapi-boilterplate
 ```
 
 ### 2. Create Virtual Environment
